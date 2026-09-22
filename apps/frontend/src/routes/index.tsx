@@ -99,6 +99,10 @@ function LandingPage() {
             ))}
           </div>
         </section>
+
+        <footer className="mx-auto w-full max-w-2xl px-4 pb-12 text-center text-sm text-muted-foreground">
+          Built by Tereza Simkova
+        </footer>
       </main>
     </>
   )
